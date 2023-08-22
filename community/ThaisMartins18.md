@@ -7,7 +7,6 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas da Fatec. Amo a
 ## 🔗 Meus Contatos:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thais-fernandes-martins-76b370138)
-[![Discord](https://img.shields.io/discord/Miss_Garden#6659)](https://discord.com/invite/Miss_Garden#6659)
 [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisfmartins18@gmail.com)
 
 
